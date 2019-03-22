@@ -6,7 +6,7 @@ namespace democonsoleapp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! i have installed Git");
         }
     }
 }
